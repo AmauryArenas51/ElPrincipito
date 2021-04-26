@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00Drag&Drop.unity
+    guid: 489162aad027556438d92bc91754cb84
+  - enabled: 1
+    path: Assets/Scenes/01PortadaPrincipal.unity
+    guid: 29153b45bb30c2346b9acbe867f0ca46
+  - enabled: 1
+    path: Assets/Scenes/02PortadaPrincipal.unity
+    guid: 67dc2022c7a8a8e4185ccab0e9068adf
+  - enabled: 1
+    path: Assets/Scenes/03Legal.unity
+    guid: 4dcabc12ba77f3a46af04e354aad192f
+  - enabled: 1
+    path: Assets/Scenes/04Dedicatoria.unity
+    guid: bc6cabb4e3c2ec14c8dec1604e17f35f
+  - enabled: 1
+    path: Assets/Scenes/05Indice.unity
+    guid: 653119b4b2d73ca4fac7d82a87d6b964
+  - enabled: 1
+    path: Assets/Scenes/06Indice.unity
+    guid: 04772fb3c9b79be488af4de9dedf9cea
+  - enabled: 1
+    path: Assets/Scenes/07Boa.unity
+    guid: c01d1e562623f794983bb61561e71b09
+  - enabled: 1
+    path: Assets/Scenes/08Avion.unity
+    guid: 8db688ca3d923e74b90f0477290b2409
+  - enabled: 1
+    path: Assets/Scenes/09Cordero.unity
+    guid: 2cf8c933b6d33414c8823f7d810c2733
+  - enabled: 1
+    path: Assets/Scenes/10AstesroideB612 2.unity
+    guid: cdf26efa1541f464d810b3fc49b295e2
+  - enabled: 1
+    path: Assets/Scenes/11AstesroideB612.unity
+    guid: 2fe87fda7362fe04ea268f917cad7d97
+  - enabled: 1
+    path: Assets/Scenes/12LaFlor.unity
+    guid: 063d12d72d4408b40af236a043028cb3
+  - enabled: 1
+    path: Assets/Scenes/13A325y326.unity
+    guid: 56aa6c165bf960e45a84a5813ef95960
+  - enabled: 1
+    path: Assets/Scenes/14A327y328.unity
+    guid: b96745c3a41fd6b43b77edba02eefd29
+  - enabled: 1
+    path: Assets/Scenes/15A329y330.unity
+    guid: eb87acd9a61b8074a8f06e7bc901d56b
+  - enabled: 1
+    path: Assets/Scenes/16PlanetaTierra.unity
+    guid: 574853d93cc591a4390a6b983a0d948c
+  - enabled: 1
+    path: Assets/Scenes/17Camino.unity
+    guid: 76f1619f31e366642beaf6d0e30bd678
+  - enabled: 1
+    path: Assets/Scenes/18Zorro.unity
+    guid: d2c697edaa357894898c09cbb6bc12de
+  - enabled: 1
+    path: Assets/Scenes/19Anochecer.unity
+    guid: 43300d9117950af44b7aff305fe27a5b
+  - enabled: 1
+    path: Assets/Scenes/20Pozo.unity
+    guid: 2d576f032f4fada4f903d02cacf983f8
+  - enabled: 1
+    path: Assets/Scenes/21DespedidaPozo.unity
+    guid: 6ffae710681c1384ebbcc5ab448c3d44
+  - enabled: 1
+    path: Assets/Scenes/22Recuerdo.unity
+    guid: 99e4b2a13c0c6d045a5ce70284fab77a
+  - enabled: 1
+    path: Assets/Scenes/23RecuerdoIlustacion.unity
+    guid: 0d81eaca1be435241995d261fedbeb11
+  - enabled: 1
+    path: Assets/Scenes/24Vocabulario.unity
+    guid: 9b3af39751f09354c91a4681b5a16ea3
+  - enabled: 1
+    path: Assets/Scenes/25Aprende.unity
+    guid: 2751f750200344b40a5453a9f3a58790
+  - enabled: 1
+    path: "Assets/Scenes/26Colof\xF3n.unity"
+    guid: 5e534c0a9e3b07f448e62c5015ea94b3
+  m_configObjects: {}
