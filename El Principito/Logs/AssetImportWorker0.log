@@ -1,0 +1,393 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.928; Version 2009; 64bit' Language: 'es' Physical Memory: 8066 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Universidad/2400/Hipermedia/ElPrincipito/El Principito
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63101
+Successfully changed project path to: D:/Universidad/2400/Hipermedia/ElPrincipito/El Principito
+D:/Universidad/2400/Hipermedia/ElPrincipito/El Principito
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 72.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Universidad/2400/Hipermedia/ElPrincipito/El Principito/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003631 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.814 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003224 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1833 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 2.060800 ms (FindLiveObjects: 0.226300 ms CreateObjectMapping: 0.063800 ms MarkObjects: 1.649300 ms  DeleteObjects: 0.120000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MusicMixer.mixer
+  artifactKey: Guid(a928b99cabc75f142905f73e05e4aaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MusicMixer.mixer using Guid(a928b99cabc75f142905f73e05e4aaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41299faaa30bfa3fa5ebf9fbe48aeb00') in 0.311489 seconds
+  Import took 0.320318 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002340 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.031 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 4.468000 ms (FindLiveObjects: 0.179400 ms CreateObjectMapping: 0.065200 ms MarkObjects: 3.956400 ms  DeleteObjects: 0.264300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1286.105342 seconds.
+  path: Assets/_Scripts/UI/SetVolumen.cs
+  artifactKey: Guid(bea20383da344c14e8f61a6862891df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/UI/SetVolumen.cs using Guid(bea20383da344c14e8f61a6862891df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1898c3955bbd2605e842ad3ffe4385c5') in 0.189707 seconds
+  Import took 0.193231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7711.364714 seconds.
+  path: Assets/Textures/principito y el zorro.png
+  artifactKey: Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito y el zorro.png using Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f1573448f8356261f31a26e8a0cf5a') in 10.550575 seconds
+  Import took 12.212169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.766064 seconds.
+  path: Assets/Textures/principito y el zorro.png
+  artifactKey: Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito y el zorro.png using Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e10cf2c28d990c5bf0a12db3a6494f5') in 0.436844 seconds
+  Import took 0.501734 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 14.894 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 3.140800 ms (FindLiveObjects: 0.253000 ms CreateObjectMapping: 0.095700 ms MarkObjects: 2.644400 ms  DeleteObjects: 0.145900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.7 MB.
+System memory in use after: 53.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 2.902100 ms (FindLiveObjects: 0.234400 ms CreateObjectMapping: 0.096600 ms MarkObjects: 2.442600 ms  DeleteObjects: 0.126800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 512.960702 seconds.
+  path: Assets/Textures/QR2.png
+  artifactKey: Guid(3756c7869a7473a40ad1b2583cacc077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/QR2.png using Guid(3756c7869a7473a40ad1b2583cacc077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec13d69c76e21fb834366ca095f15fa7') in 0.172840 seconds
+  Import took 0.176281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Textures/Principito y asteroide.png
+  artifactKey: Guid(250d888a7321f014c935b376b5a967e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Principito y asteroide.png using Guid(250d888a7321f014c935b376b5a967e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7e107816673ca0f1785e41e15da9d2') in 0.272615 seconds
+  Import took 0.275308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Textures/Botones.png
+  artifactKey: Guid(cd257ef29f4f7774ebc17c265a122a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Botones.png using Guid(cd257ef29f4f7774ebc17c265a122a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2cc21b0f081f75cf26c4b87233fb1f') in 0.023471 seconds
+  Import took 0.026777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036373 seconds.
+  path: Assets/Textures/principito asteroide.png
+  artifactKey: Guid(16aad7543acc47f4d9a1fe52029271b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito asteroide.png using Guid(16aad7543acc47f4d9a1fe52029271b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca0d6f09ae4b5a830805518b0220432') in 0.365063 seconds
+  Import took 0.368127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Textures/Botones.png
+  artifactKey: Guid(cd257ef29f4f7774ebc17c265a122a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Botones.png using Guid(cd257ef29f4f7774ebc17c265a122a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce2cc21b0f081f75cf26c4b87233fb1f') in 0.019593 seconds
+  Import took 0.096677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Textures/OpcionesBTN.png
+  artifactKey: Guid(d7abbee5e9b6ee8458119911bbc9bdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/OpcionesBTN.png using Guid(d7abbee5e9b6ee8458119911bbc9bdbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744a5bc2537afb9a1557a4d09541b997') in 0.153747 seconds
+  Import took 0.156801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Textures/QR1.png
+  artifactKey: Guid(f3dad662b97f72b4985bd6a116b0284a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/QR1.png using Guid(f3dad662b97f72b4985bd6a116b0284a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b95d2c292e9bd6d81f19d1c773fc48') in 0.050549 seconds
+  Import took 0.113773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Textures/SlideBTN.png
+  artifactKey: Guid(c2ff43684e98d634e90ab2d1147019ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SlideBTN.png using Guid(c2ff43684e98d634e90ab2d1147019ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83eb4112f08be40ce96b3aa63ebdf0fe') in 0.157890 seconds
+  Import took 0.161696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Textures/Menu.png
+  artifactKey: Guid(ad3c2cb1e2053b04896ebd7b26b0b952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Menu.png using Guid(ad3c2cb1e2053b04896ebd7b26b0b952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765a20d736d0c87eb038ea40216955f3') in 0.022961 seconds
+  Import took 0.025651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Textures/principito y serpiente.png
+  artifactKey: Guid(d76ff6b7fe9739b40828dfd2aef5d847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito y serpiente.png using Guid(d76ff6b7fe9739b40828dfd2aef5d847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b99529c808de6e16eb84fd57467996') in 0.086957 seconds
+  Import took 0.089893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Textures/principito asteroide rosa.png
+  artifactKey: Guid(1458d63f0d85fb249b5a3eedc2b72030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito asteroide rosa.png using Guid(1458d63f0d85fb249b5a3eedc2b72030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30961355900f5f768cf286d4be54a926') in 0.598205 seconds
+  Import took 0.601027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Textures/Cicle.png
+  artifactKey: Guid(eb7677f77d94bbd43936c51771c7725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Cicle.png using Guid(eb7677f77d94bbd43936c51771c7725f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bcf2611e0f535b00e35f1f7062b0f2') in 0.076896 seconds
+  Import took 0.080112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Textures/Meteorito.png
+  artifactKey: Guid(94274e6bd28d377459e43325892e594e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Meteorito.png using Guid(94274e6bd28d377459e43325892e594e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32a510aef02068bb610ebdd0e2fba46d') in 0.633287 seconds
+  Import took 0.636126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Textures/RedLight.png
+  artifactKey: Guid(c167ef0fb9d18a24483789a29bbc9167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/RedLight.png using Guid(c167ef0fb9d18a24483789a29bbc9167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59b827adc92b138e5b925d438ee6be7') in 0.575877 seconds
+  Import took 0.579028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Textures/principito y el zorro.png
+  artifactKey: Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/principito y el zorro.png using Guid(f45ebbb1f8ebf4a40bcb31637356ec67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea37320b5f6e767adc30ac734d3bf8cb') in 0.607744 seconds
+  Import took 0.611088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3258.361280 seconds.
+  path: Assets/Textures/Icon.png
+  artifactKey: Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Icon.png using Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8460bb6e405ec85c53108d7c7b4d526c') in 13.628431 seconds
+  Import took 17.136026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058498 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034cf45ac7e39359332a74dd7711bc23') in 0.880270 seconds
+  Import took 1.152081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Textures/Icon.png
+  artifactKey: Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Icon.png using Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8460bb6e405ec85c53108d7c7b4d526c') in 0.526122 seconds
+  Import took 0.531588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 220.097271 seconds.
+  path: Assets/Textures/Icon.png
+  artifactKey: Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Icon.png using Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf5c507e2cda210ea1f9e0f3447f942') in 0.484485 seconds
+  Import took 0.571923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 171.517084 seconds.
+  path: Assets/Textures/Icon.png
+  artifactKey: Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Icon.png using Guid(2cf9a8513d587c5499459cfe8e853ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaf0da18c66ef7012835ffc829a41f3') in 1.502974 seconds
+  Import took 1.615171 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 778.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 13191.944400 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.051500 ms MarkObjects: 13179.030300 ms  DeleteObjects: 12.600100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 153.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 71.170200 ms (FindLiveObjects: 0.648500 ms CreateObjectMapping: 0.069000 ms MarkObjects: 30.505600 ms  DeleteObjects: 39.943800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 154.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.9 MB.
+System memory in use after: 53.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 38.606600 ms (FindLiveObjects: 0.351600 ms CreateObjectMapping: 0.096200 ms MarkObjects: 2.986600 ms  DeleteObjects: 35.170000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.037 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 2.355400 ms (FindLiveObjects: 0.293200 ms CreateObjectMapping: 0.132800 ms MarkObjects: 1.737800 ms  DeleteObjects: 0.190500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.008700 ms (FindLiveObjects: 0.247100 ms CreateObjectMapping: 0.066200 ms MarkObjects: 1.561200 ms  DeleteObjects: 0.132800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
