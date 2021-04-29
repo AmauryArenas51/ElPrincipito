@@ -12,10 +12,22 @@ public class DragHandler : MonoBehaviour, IDragHandler, IEndDragHandler, IBeginD
     public bool drop;
 
     private CanvasGroup _canvasGroup;
+    
+    public AudioClip clip;
+
+    public AudioSource _audioSource;
+    
+    //public Imag
+
 
     void Awake()
     {
         _canvasGroup = GetComponent<CanvasGroup>();
+    }
+
+    private void Start()
+    {
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -36,6 +48,8 @@ public class DragHandler : MonoBehaviour, IDragHandler, IEndDragHandler, IBeginD
     public void OnBeginDrag(PointerEventData eventData)
     {
         _canvasGroup.blocksRaycasts = false;
+        _audioSource.PlayOneShot(clip, 1);
+
     }
     
     
